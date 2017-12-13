@@ -42,8 +42,6 @@ public class Main {
         System.out.println("Contain " + lllong +" word 10 lenght");
 
 
-        System.out.println("gsdagasdg");
-
 
 
 
