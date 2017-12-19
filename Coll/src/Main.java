@@ -40,7 +40,8 @@ public class Main {
         System.out.println("Contain "+ wordsStream.size() + " items with 's'");
         System.out.println("Word size: " + words.size());
         System.out.println("Contain " + lllong +" word 10 lenght");
-        System.out.println("fasdf");
+
+
 
 
 
@@ -48,4 +49,10 @@ public class Main {
 
 
     }
+}
+
+
+class nnew
+{
+    
 }
