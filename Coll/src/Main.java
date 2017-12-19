@@ -41,18 +41,11 @@ public class Main {
         System.out.println("Word size: " + words.size());
         System.out.println("Contain " + lllong +" word 10 lenght");
 
-
-
-
-
-
-
-
     }
 }
 
 
 class nnew
 {
-    
+
 }
